@@ -8,7 +8,7 @@
 
 ## It has been made by Ahmed Barakat
 
-## for more contact me on
+## Dont Forget to contact me on
 
 ## ahmedbarakat2401@gmail.com
 
