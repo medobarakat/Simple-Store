@@ -5,7 +5,7 @@ this is a Redux Webpage For Simple Store
 
 ## Live Link
 
-- Live: [DEMO](ahmed-store-redux1.netlify.app)
+- Live: [DEMO](https://ahmed-store-redux1.netlify.app)
 
 ## Built with
 
