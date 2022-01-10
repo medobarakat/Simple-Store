@@ -1,15 +1,45 @@
-# Simple Store
+# Simple Store-Website
+this is a Redux Webpage For Simple Store
 
-## were made With :
+![screenshot](./public/screenshot.png)
 
-## Html , Css , JavaScript ,React , Redux , React Bootstrap
+## Live Link
 
-## project link is ahmed-store-redux1.netlify.app
+- Live: [DEMO](ahmed-store-redux1.netlify.app)
 
-## It has been made by Ahmed Barakat
+## Built with
 
-## Dont Forget to contact me on
 
-## ahmedbarakat2401@gmail.com
+- React
+- React - Router V6
+- Redux 
+- DOM properties and attributes
+- Pure JavaScript
+- HTML & Css
 
-## or +201013782744
+## Getting Started
+To get a local copy of the repository please run the following commands on your terminal:
+- ```$ cd <folder>```
+- ```$ git clone https://github.com/medobarakat/Simple-Store.git ```
+- ```$ cd Simple-Store ```
+- ```npm install```
+- ```npm start```
+
+
+## Authors
+
+👤 **Ahmed Barakat**
+- Github: [@medobarakat](https://github.com/medobarakat)
+
+- Linkedin: [Ahmed Barakat](https://www.linkedin.com/in/ahmed-barakat-dev/)
+
+- Email: [My Gmail](ahmedbarakat2401@gmail.com)
+
+##    Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
